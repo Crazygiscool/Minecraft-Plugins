@@ -354,7 +354,8 @@ Some plugins are **premium**. You decide if you want to use them or not.
 - **[Tested] Interaction Visualizer** - Visualizes everything for your players, cool plugin! - [SpigotMC](https://www.spigotmc.org/resources/interactionvisualizer-visualize-function-blocks-entities-like-crafting-tabl)
 - **[Tested] MinecraftGPT** - Doesn't work anymore but you can still try it out - [SpigotMC](https://www.spigotmc.org/resources/minecraftgpt)
 - **[Tested] Server tutorials plus** - Fully customizable tutorial to let players know about your server - [SpigotMC](https://www.spigotmc.org/resources/server-tutorial-plus.37741/)
-- **bedrock software Nukkit** - Bedrock server software but with plugins! - [GitHub](https://github.com/Nukkit/Nukkit)
+- **(RIP)bedrock software Nukkit** - Bedrock server software but with plugins! - [GitHub](https://github.com/Nukkit/Nukkit)(RIP)
+- **Bedrock Server Software Endstone** - Just like Nukkit, but better! - [Github](https://github.com/EndstoneMC/endstone)
 
 ## Utility Libraries & APIs
 
